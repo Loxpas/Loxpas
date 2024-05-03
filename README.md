@@ -1,12 +1,16 @@
 <div align="center">
-<h1 align="center">Hola, soy Arturo Velazquez</a> 👋</h1>
+<h1 align="center">Hi, I'm Arturo Velazquez</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-## Sobre mi
+## About me
 
-- ⭐ 
-- 📲 
+- ⭐ Ask me about **Web development and mobile development**
+- 📫 How to reach me **loxpas2003@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/loxpas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loxpas" height="30" width="40" /></a>
+</p> 
 - 🎥 
 - ✏️ 
 - 📗 
