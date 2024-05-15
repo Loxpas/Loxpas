@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Arturo Velazquez</a> 👋</h1>
 </div>
-<img src="https://i.ibb.co/xX9bs4M/Banner-Loxpas.webp" alt="Banner" width="1000" height="500">
 
 
 ## About me
