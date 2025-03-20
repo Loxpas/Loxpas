@@ -27,6 +27,7 @@ I enjoy solving problems, learning new technologies, and building applications.
 ## 📗 My Blog & Content
 
 - 📝 [Loxpas.github.io](https://loxpas.github.io) - Portfolio
+- 📝 [Colima.github.io](https://loxpas.github.io/Colima.github.io/) - DescubreColima/"Responsive"        
 
 ---
 
