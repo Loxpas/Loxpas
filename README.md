@@ -28,7 +28,8 @@ I enjoy solving problems, learning new technologies, and building applications.
 
 - 📝 [Portfolio](https://loxpas.github.io) - Portfolio
 - 📝 [Colima](https://loxpas.github.io/Colima.github.io/) - DescubreColima/"Responsive"
-- 📝 [Toloache](https://loxpas.pythonanywhere.com/) - Toloache - tienda en linea          
+- 📝 [Toloache](https://loxpas.pythonanywhere.com/) - Toloache - tienda en linea
+- 📝 [Wild Adventures](https://loxpas.itch.io/wild-adventure) - Juego Hecho en godot        
 
 ---
 
